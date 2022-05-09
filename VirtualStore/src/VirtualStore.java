@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class VirtualStore {
+public class VirtualStore 
     private Client session;
     private ArrayList<Client> clients;
     private LinkedList<Product> shop;
